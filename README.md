@@ -4,54 +4,53 @@
     </a>
     </br>
     </br>
-  <h3 align="center">🏗️ Bâtir Ensemble &nbsp; — &nbsp; Entreprise de Construction</h3>
+  <h3 align="center"> 🏗️ Sri Swathi Constructions Company</h3>
 </div>
 
-## <br /> 📌 Sommaire
+## <br /> 📌 Table of Contents
 
 &nbsp;&nbsp;&nbsp; 🎨 &nbsp; [**Introduction**](#introduction)<br />
 &nbsp;&nbsp;&nbsp; 🛠️ &nbsp; [**Technologies**](#technologies)<br />
-&nbsp;&nbsp;&nbsp; 🎯 &nbsp; [**Fonctionnalités**](#fonctionnalités)<br />
+&nbsp;&nbsp;&nbsp; 🎯 &nbsp; [**Features**](#Features)<br />
 &nbsp;&nbsp;&nbsp; 🚀 &nbsp; [**Installation**](#installation)<br />
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Bâtir Ensemble est une landing page moderne et responsive pour une entreprise du bâtiment. Elle présente services, réalisations, témoignages et contact, avec animations au scroll via ScrollReveal et slider interactif via Swiper.js, le tout dans un design clair et modulaire pour une image professionnelle et engageante.
+Sri Swathi Constructions is a responsive construction company website built using HTML, CSS, and JavaScript to showcase professional building, estimation, and real estate services.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-- HTML5 sémantique et structuration claire
-- CSS3 moderne avec variables, media queries et animations
-- JavaScript ES6 clair et modulaire
-- [Swiper.js](https://swiperjs.com/) pour le carrousel des services
-- [ScrollReveal](https://scrollrevealjs.org/) pour des animations au scroll
-- [Remix Icons](https://remixicon.com/) pour des icônes vectorielles modernes
-- Responsive Design pensé en mobile-first
+-  Semantic HTML5 structure
+- Modern CSS3 with variables, media queries, and animations
+- Modular JavaScript ES6
+- [Swiper.js](https://swiperjs.com/) Swiper.js for service sliders and carousels
+- [ScrollReveal](https://scrollrevealjs.org/)ScrollReveal for scroll animations
+- [Remix Icons](https://remixicon.com/) Remix Icons for modern vector icons
+-Responsive mobile-first design
 
-## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
+## <br /> <a name="Features">🎯 Features </a>
 
-- Section d’accueil avec slogan animé et visuel double
-- Section À propos avec liste des engagements & images croisées
-- Carrousel interactif des différents services
-- Section projets réalisés avec date, description et visuel
-- Section Contact avec carte, réseaux sociaux et infos utiles
-- Bouton ScrollUp animé et header sticky dynamique
-- Animation ScrollReveal sur toutes les sections
-- Footer complet avec navigation, horaires et réseaux
+- Responsive Design
+- Modern UI
+- Services Section
+- Project Showcase
+- Contact Section
+- Smooth Animations
+- Mobile Friendly
 
 ## <br /> <a name="installation">🚀 Installation</a>
 
-### ✅ Prérequis
+### ✅ Prerequisites
 
-- [Google Chrome](https://www.google.com/) &nbsp;—&nbsp; Navigateur moderne
-- [Visual Studio Code](https://code.visualstudio.com/) &nbsp;—&nbsp; Éditeur de code
+- [Google Chrome](https://www.google.com/) &nbsp;—&nbsp; Modern web browser
+- [Visual Studio Code](https://code.visualstudio.com/) &nbsp;—&nbsp; Code editor
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) &nbsp;—&nbsp; Extension VS Code
 
 ### 📥 Cloner le projet
 
 ```bash
-git clone git@github.com:ValentinMadiot/construction-company_ui
-cd construction-company_ui
+git clone https://github.com/aabeethsulaiman/sri-swathi-constructions.git
+cd sri-swathi-constructions
 ```
 
 ### ▶️ Lancer le projet
