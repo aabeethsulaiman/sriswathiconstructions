@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://construction-company-vm.netlify.app/" target="_blank">
+    <a href="#" target="_blank">
       <img src=".docs/preview.png" alt="Website Preview">
     </a>
     </br>
